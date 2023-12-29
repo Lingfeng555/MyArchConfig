@@ -1,0 +1,15 @@
+2023/12/20-20:58:55.956 256a Reusing MANIFEST /home/Lingfeng/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/12/20-20:58:55.956 256a Recovering log #20
+2023/12/20-20:58:55.963 256a Level-0 table #23: started
+2023/12/20-20:58:55.973 256a Level-0 table #23: 1939127 bytes OK
+2023/12/20-20:58:55.975 256a Delete type=0 #20
+2023/12/20-20:58:55.975 259f Compacting 4@0 + 1@1 files
+2023/12/20-20:58:56.030 259f Generated table #25@0: 23 keys, 3999122 bytes
+2023/12/20-20:58:56.041 259f Generated table #26@0: 67 keys, 1862490 bytes
+2023/12/20-20:58:56.041 259f Compacted 4@0 + 1@1 files => 5861612 bytes
+2023/12/20-20:58:56.045 259f compacted to: files[ 0 3 0 0 0 0 0 ]
+2023/12/20-20:58:56.045 259f Delete type=2 #15
+2023/12/20-20:58:56.045 259f Delete type=2 #18
+2023/12/20-20:58:56.045 259f Delete type=2 #21
+2023/12/20-20:58:56.045 259f Delete type=2 #23
+2023/12/20-20:58:56.045 259f Delete type=2 #12

@@ -1,0 +1,9 @@
+2023-12-20T19:58:56.022Z 0: 
+
+----------------------------------------------
+2023-12-20T19:58:56.045Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.36"}, modulepath: /home/Lingfeng/.config/discord/0.0.36/modules
+2023-12-20T19:58:56.051Z 2: ✅ webContents.created web1 ""
+2023-12-20T19:58:56.056Z 3: ✅ window.created win1 "discord"
+2023-12-20T19:58:56.368Z 4: ✅ webContents.did-finish-load web1
+2023-12-20T21:12:12.251Z 5: before-quit
+2023-12-20T21:12:12.329Z 6: window.close win1

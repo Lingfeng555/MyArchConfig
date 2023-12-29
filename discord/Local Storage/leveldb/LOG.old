@@ -1,0 +1,6 @@
+2023/10/18-11:18:24.650 7b84 Reusing MANIFEST /home/Lingfeng/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/10/18-11:18:24.650 7b84 Recovering log #17
+2023/10/18-11:18:24.650 7b84 Reusing old log /home/Lingfeng/.config/discord/Local Storage/leveldb/000017.log 
+2023/10/18-11:24:00.073 9a05 Level-0 table #21: started
+2023/10/18-11:24:00.101 9a05 Level-0 table #21: 2080809 bytes OK
+2023/10/18-11:24:00.103 9a05 Delete type=0 #17

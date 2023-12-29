@@ -1,0 +1,71 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFontsWasMigrated" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "2",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "NewProjectWizard.generateOnboardingTips": "true",
+    "SettingsSearchHistory": "2",
+    "appcds.runOnSecondStart": "IC-232.9921.47-045f30926de5ab3e2697caa83452a68dc2a9a5dc4f7f32b7c82c210235906af8",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IC-232.9921.47",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "defaultJdkConfigured": "true",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.once": "true",
+    "experimental.ui.used.version": "232.9921.47",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "gotit.previous.run": "IC-232.9559.62",
+    "ide.memory.adjusted": "true",
+    "ide.updates.previous.build.number": "IC-232.9921.47",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "232-1.9.0-IJ9921.47",
+    "jdk.selected.JAVA_MODULE": "20",
+    "migrate.android.sdk.path.to.roamable.storage": "false",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "onboarding.generation.number": "2",
+    "previousColorScheme": "_@user_Dark",
+    "project.wizard.group": "NPW.simple-project",
+    "registry.to.advanced.settings.migration.build": "IC-232.9921.47",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;Rename&quot;: 1693987481988,
+    &quot;CtrlW&quot;: 1693987481001,
+    &quot;SpeedSearch&quot;: 1694078960648,
+    &quot;FocusProjectToolWindow&quot;: 1693987482142,
+    &quot;SearchEverywhere&quot;: 1693987481470,
+    &quot;QuickSwitchScheme&quot;: 1693987483067,
+    &quot;CommentCode&quot;: 1693987481780,
+    &quot;FileStructurePopup&quot;: 1693987483674,
+    &quot;ShowUsages&quot;: 1693861229157,
+    &quot;FindReplaceToggle&quot;: 1693987480347,
+    &quot;ContextActions&quot;: 1693987481619,
+    &quot;FindInPath&quot;: 1693987477019
+  },
+  &quot;proposedTips&quot;: {
+    &quot;SpeedSearch&quot;: 1694078960502,
+    &quot;ShowUsages&quot;: 1693861228676,
+    &quot;FindInPath&quot;: 1693987476937
+  },
+  &quot;tipsOrderSeed&quot;: 1693861228583
+}</component>
+</application>

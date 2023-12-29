@@ -1,0 +1,11 @@
+{
+    "initial_working_directory": "~",
+    "text_rendering": "geometricPrecision",
+    "editor_theme": "Vibrant Ink",
+    "pdf_previewer": "none",
+    "posix_terminal_shell": "bash",
+    "highlight_selected_line": true,
+    "jobs_tab_visibility": "shown",
+    "default_project_location": "~/R",
+    "new_proj_git_init": true
+}
